@@ -1,1 +1,1 @@
-# odin-recipes
+Recipe project to learn HTML
